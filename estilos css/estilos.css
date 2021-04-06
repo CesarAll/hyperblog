@@ -2,7 +2,7 @@ body{
 
     color: #333;
     text-align: center;
-    font-family: 'Franklin Gothic Medium';
+    font-family: 'Arial';
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -12,11 +12,11 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 6px solid rgb(141, 19, 19);
+    border: 1px solid rgb(141, 19, 19);
     margin: 0 auto;
 }
 
 #container h1
 {
-    font-size: 20px;
+    font-size: 30px;
 }
